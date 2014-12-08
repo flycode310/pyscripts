@@ -24,3 +24,4 @@ platforms = '/opt/adt-bundle-linux-x86_64-20140702/sdk/platforms'
 cmdString = 'java -cp ' + classpath + ' ' + mainclass + ' ' + apkPath + ' ' + platforms
 
 os.system(cmdString)
+# this is a test
